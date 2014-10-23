@@ -9,7 +9,7 @@ public class Main {
 		// TODO Auto-generated method stub
 		System.out.println("zh");
 		System.out.println("lxl");
-		
+		int i=0;
 	}
 
 }
