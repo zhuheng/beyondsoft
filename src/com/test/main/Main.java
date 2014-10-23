@@ -10,6 +10,7 @@ public class Main {
 		System.out.println("zh");
 		System.out.println("lxl");
 		int i=0;
+		int i=1;
 	}
 
 }
