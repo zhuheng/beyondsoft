@@ -8,6 +8,7 @@ public class Main {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println("zh");
+		System.out.println("lxl");
 	}
 
 }
