@@ -11,7 +11,8 @@ public class Main {
 		System.out.println("lxl");
 		String xx="";
 		
-		int i=10;
+		int i=10;	int b=111;
+
 	}
 
 }
