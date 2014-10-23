@@ -9,7 +9,8 @@ public class Main {
 		// TODO Auto-generated method stub
 		System.out.println("zh");
 		System.out.println("lxl");
-		String xx="";
+		String xx="我是一只小青蛙！！！";
+		
 	}
 
 }
